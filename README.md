@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @bhawnarlal21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @bhawnar lal
+- 👀 I’m interested in ts
+- 🌱 I’m currently learning js
+- 💞️ I’m looking to collaborate on html css js
+- 📫 Reach me at admin@techcsc.com
 
 <!---
-bhawnarlal21/bhawnarlal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+techcsc21/techcsc21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
